@@ -10,7 +10,6 @@ This is mostly an aide-memoire, all will be live coded and this will be printed 
 - loops
 - lists
 - conditionals
-- importing (maybe numpy mean?)
 
 ## variables and printing
 
